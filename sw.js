@@ -1,5 +1,5 @@
 /* Kingshot Companion service worker — bump CACHE with every build (matches footer stamp) */
-const CACHE = "kc-c102";
+const CACHE = "kc-c104";
 
 self.addEventListener("install", () => {
   self.skipWaiting();
